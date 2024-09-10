@@ -52,9 +52,7 @@ main .content-wrapper {
   display: flex;
   justify-content: center;
   align-items: center;
-  /* Add a Flexbox property to align the text in each block at its center. */
-
-  padding: 10px;
+  padding: 8px;
   border: 2px solid mediumseagreen;
 }
 
@@ -64,7 +62,7 @@ main .content-wrapper {
 
 img {
   width: 100%;
-  border-radius: 5px;
+  border-radius: 4px;
 }
 
 .copyright {
@@ -92,7 +90,7 @@ img {
   }
 
   .gif-block {
-    width: 48%;
+    width: 45%;
   }
 
 }
@@ -104,6 +102,6 @@ img {
   }
 
   .gif-block {
-    width: 31.8%;
+    width: 45%;
   }
 }
